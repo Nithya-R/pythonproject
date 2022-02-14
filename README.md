@@ -1,1 +1,4 @@
 # pythonproject
+**SEO tool to analyze live web pages**
+
+SEO stands for search engine optimization—it’s the process of making your website and all its webpages easier for your customers to find on search engine results pages (SERPs). Your business will rank for a keyword and successful SEO aims to make your site rank as high as possible (at least the first page of the SERPs) for said keyword. This process can be very complicated and involved, but there are basic things you can do right now to make your site rank higher for your specific keyword. This applies if you’re a startup, a small business, or even a Fortune 500 company. Different search engines will have their own mechanisms that calculate the score of a keyword on the page based on its density and other factors and thus work out its ranking in the calculated order.
